@@ -1,2 +1,0 @@
-# futsalmaniabkp
-initialization file
