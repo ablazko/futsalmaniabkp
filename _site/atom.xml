@@ -4,7 +4,7 @@
  <title>The blog of Futsal Mania</title>
  <link href="/futsalmaniablog/atom.xml" rel="self"/>
  <link href="/futsalmaniablog"/>
- <updated>2016-10-18T10:16:16-02:00</updated>
+ <updated>2016-10-18T10:25:57-02:00</updated>
  <id>/futsalmaniablog</id>
  <author>
    <name>Futsal Mania</name>
@@ -13,27 +13,18 @@
 
  
  <entry>
-   <title>test</title>
-   <link href="/futsalmaniablog/blog/2016/10/18/test.html"/>
-   <updated>2016-10-18T01:00:00-02:00</updated>
-   <id>/futsalmaniablog/blog/2016/10/18/test</id>
-   <content type="html">&lt;p&gt;This is a test of publishing in my post!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Quais equipes avançam para quartas de final da LNF 2016?</title>
    <link href="/futsalmaniablog/blog/2016/10/13/equipes-que-avancam-as-quartas-lnf-2016.html"/>
    <updated>2016-10-13T00:00:00-03:00</updated>
    <id>/futsalmaniablog/blog/2016/10/13/equipes-que-avancam-as-quartas-lnf-2016</id>
-   <content type="html">&lt;p&gt;Será seu time avançará para a fase de quartas de final da LNF 2016?&lt;/p&gt;
+   <content type="html">&lt;p&gt;Será que seu time avançará para a fase de quartas de final da LNF 2016?&lt;/p&gt;
 
-&lt;p&gt;Descobrimos quais serão as oito melhores equipes de futsal do Brasil! Segundo minhas análises de performance dos times ao longo do tempo e seus retrospectos na temporada atual (LNF 2016), é possível prever quais as equipes com maiores chances de avançar para a próxima fase na competição.
+&lt;p&gt;Segundo minhas análises de performance dos times ao longo do tempo e seus retrospectos na temporada atual (LNF 2016), foi possível prever quais as equipes com maiores chances de avançar para a próxima fase na competição.
 Entre os fatores mais importantes nestas disputas está a performance das equipes nas partidas diante da sua torcida (fator ‘casa’). Assim, os times que decidirão a vaga em casa levam uma pequena vantagem nestes confrontos, mesmo aqueles com placar adverso na primeira partida das oitava de final.&lt;/p&gt;
 
 &lt;p&gt;Mas este não é o único fator que se leva em consideração nos cálculos de performance do time e nas suas chances de vitória nas partidas que acontecerão hoje (14/out/2016), referentes ao jogo de volta.&lt;/p&gt;
 
-&lt;p&gt;Os resultados mostram que as equipes de &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Marechal Rondon&lt;/code&gt; e o &lt;code class=&quot;highlighter-rouge&quot;&gt;Corinthians&lt;/code&gt;, que ganharam o primeiro jogo fora e decidem a vaga jogando em casa são os times com as maiores chances de passar às quartas, tendo 98%, 98% e 82% de chances, respectivamente. Além do ótimo retrospecto de resultados jogando em casa, ainda jogam por um empate simples, enquanto seus adversários &lt;code class=&quot;highlighter-rouge&quot;&gt;Floripa&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Guarapuava&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Umuarama&lt;/code&gt; venceram menos de 30% das partidas que disputaram como visitantes.&lt;/p&gt;
+&lt;p&gt;Os resultados mostram que as equipes de &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Marechal Rondon&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Corinthians&lt;/code&gt;, que ganharam o primeiro jogo fora e decidem a vaga jogando em casa são os times com as maiores chances de passar às quartas, tendo 98%, 98% e 82% de chances, respectivamente. Além do ótimo retrospecto de resultados jogando em casa, ainda jogam por um empate simples, enquanto seus adversários &lt;code class=&quot;highlighter-rouge&quot;&gt;Floripa&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Guarapuava&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Umuarama&lt;/code&gt; venceram menos de 30% das partidas que disputaram como visitantes.&lt;/p&gt;
 
 &lt;p&gt;Mesmo tendo perdido o primeiro jogo para &lt;code class=&quot;highlighter-rouge&quot;&gt;Minas&lt;/code&gt;, o &lt;code class=&quot;highlighter-rouge&quot;&gt;Orlândia&lt;/code&gt; tem também grandes chances de avançar para as quartas de final. A equipe teve o 2o. melhor desempenho da competição na fase inicial, conta com um elenco de jogadores bastante experientes em jogos decisivos e seu índice de aproveitamento nos jogos em casa nesta temporada foi maior que 75%. Já o retrospecto positivo do Minas nas partidas como visitante apresenta um índice de 37%. A chance do &lt;code class=&quot;highlighter-rouge&quot;&gt;Orlândia&lt;/code&gt; para avançar na competição é de 78%.&lt;/p&gt;
 
