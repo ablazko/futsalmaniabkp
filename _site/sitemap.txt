@@ -2,7 +2,6 @@
 /futsalmaniablog/404.html
 /futsalmaniablog/assets/css/all.css
 /futsalmaniablog/atom.xml
-/futsalmaniablog/index%20copy.html
 /futsalmaniablog/
 /futsalmaniablog/site.json
 /futsalmaniablog/sitemap.txt
