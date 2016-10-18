@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>The blog of Futsal Mania</title>
- <link href="http://ablazko.github.io/futsalmaniablog/atom.xml" rel="self"/>
- <link href="http://ablazko.github.io/futsalmaniablog"/>
- <updated>2016-04-28T01:58:02-03:00</updated>
- <id>http://ablazko.github.io/futsalmaniablog</id>
+ <link href="/futsalmaniablog/atom.xml" rel="self"/>
+ <link href="/futsalmaniablog"/>
+ <updated>2016-10-18T10:16:16-02:00</updated>
+ <id>/futsalmaniablog</id>
  <author>
    <name>Futsal Mania</name>
    <email>andre.blazko@gmail.com</email>
@@ -13,10 +13,238 @@
 
  
  <entry>
+   <title>test</title>
+   <link href="/futsalmaniablog/blog/2016/10/18/test.html"/>
+   <updated>2016-10-18T01:00:00-02:00</updated>
+   <id>/futsalmaniablog/blog/2016/10/18/test</id>
+   <content type="html">&lt;p&gt;This is a test of publishing in my post!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quais equipes avançam para quartas de final da LNF 2016?</title>
+   <link href="/futsalmaniablog/blog/2016/10/13/equipes-que-avancam-as-quartas-lnf-2016.html"/>
+   <updated>2016-10-13T00:00:00-03:00</updated>
+   <id>/futsalmaniablog/blog/2016/10/13/equipes-que-avancam-as-quartas-lnf-2016</id>
+   <content type="html">&lt;p&gt;Será seu time avançará para a fase de quartas de final da LNF 2016?&lt;/p&gt;
+
+&lt;p&gt;Descobrimos quais serão as oito melhores equipes de futsal do Brasil! Segundo minhas análises de performance dos times ao longo do tempo e seus retrospectos na temporada atual (LNF 2016), é possível prever quais as equipes com maiores chances de avançar para a próxima fase na competição.
+Entre os fatores mais importantes nestas disputas está a performance das equipes nas partidas diante da sua torcida (fator ‘casa’). Assim, os times que decidirão a vaga em casa levam uma pequena vantagem nestes confrontos, mesmo aqueles com placar adverso na primeira partida das oitava de final.&lt;/p&gt;
+
+&lt;p&gt;Mas este não é o único fator que se leva em consideração nos cálculos de performance do time e nas suas chances de vitória nas partidas que acontecerão hoje (14/out/2016), referentes ao jogo de volta.&lt;/p&gt;
+
+&lt;p&gt;Os resultados mostram que as equipes de &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Marechal Rondon&lt;/code&gt; e o &lt;code class=&quot;highlighter-rouge&quot;&gt;Corinthians&lt;/code&gt;, que ganharam o primeiro jogo fora e decidem a vaga jogando em casa são os times com as maiores chances de passar às quartas, tendo 98%, 98% e 82% de chances, respectivamente. Além do ótimo retrospecto de resultados jogando em casa, ainda jogam por um empate simples, enquanto seus adversários &lt;code class=&quot;highlighter-rouge&quot;&gt;Floripa&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Guarapuava&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Umuarama&lt;/code&gt; venceram menos de 30% das partidas que disputaram como visitantes.&lt;/p&gt;
+
+&lt;p&gt;Mesmo tendo perdido o primeiro jogo para &lt;code class=&quot;highlighter-rouge&quot;&gt;Minas&lt;/code&gt;, o &lt;code class=&quot;highlighter-rouge&quot;&gt;Orlândia&lt;/code&gt; tem também grandes chances de avançar para as quartas de final. A equipe teve o 2o. melhor desempenho da competição na fase inicial, conta com um elenco de jogadores bastante experientes em jogos decisivos e seu índice de aproveitamento nos jogos em casa nesta temporada foi maior que 75%. Já o retrospecto positivo do Minas nas partidas como visitante apresenta um índice de 37%. A chance do &lt;code class=&quot;highlighter-rouge&quot;&gt;Orlândia&lt;/code&gt; para avançar na competição é de 78%.&lt;/p&gt;
+
+&lt;p&gt;Novato na liga, o &lt;code class=&quot;highlighter-rouge&quot;&gt;Marreco&lt;/code&gt;, que surpreendeu o fortíssimo &lt;code class=&quot;highlighter-rouge&quot;&gt;Atlântico de Erechim&lt;/code&gt; na 1a. partida das oitavas de final, tem um retrospecto positivo bastante respeitável em partidas fora de casa, com 50% de aproveitamento. Por outro lado, o &lt;code class=&quot;highlighter-rouge&quot;&gt;Atlântico&lt;/code&gt; sofreu apenas uma única derrota jogando em casa nesta temporada e, por este motivo, leva uma pequena vantagem e deve fazer valer a força da sua torcida e avançar às quartas. A chance do &lt;code class=&quot;highlighter-rouge&quot;&gt;Atlântico&lt;/code&gt; avançar na competição é de 70%.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;São José &lt;/code&gt;e &lt;code class=&quot;highlighter-rouge&quot;&gt;Joinville&lt;/code&gt; empataram o primeiro jogo em 3 gols e a decisão será na cidade de Joinville. Posto isso, e tendo o &lt;code class=&quot;highlighter-rouge&quot;&gt;Joinville&lt;/code&gt; um retrospecto positivo altamente favorável em partidas disputadas dentre de casa, este deve avançar à próxima fase com chance de sucesso de 70%, mesmo tendo o &lt;code class=&quot;highlighter-rouge&quot;&gt;São José&lt;/code&gt; uma boa retrospetiva de bons resultados fora de casa, com 50% de vitórias ou empates como visitante.&lt;/p&gt;
+
+&lt;p&gt;Outra partida que terminou empatada na 1a. rodada das oitavas de final foi entre &lt;code class=&quot;highlighter-rouge&quot;&gt;Concórdia&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Assoeva&lt;/code&gt;, refletindo o equilíbrio e a performance semelhante que tiveram na primeira fase. A chance do &lt;code class=&quot;highlighter-rouge&quot;&gt;Assoeva&lt;/code&gt; avançar para a próxima fase da LNF é ligeiramente maior, com 65%, dado seu retrospecto de 7 vitórias dentre as 9 disputadas dentro de casa.&lt;/p&gt;
+
+&lt;p&gt;A partida entre &lt;code class=&quot;highlighter-rouge&quot;&gt;Sorocaba&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Jaraguá&lt;/code&gt; será outra verdadeira batalha dentro das quadras. Com desempenhos medianos na fase de classificação, ambas as equipes contam com elencos bastante experientes. &lt;code class=&quot;highlighter-rouge&quot;&gt;Jaraguá&lt;/code&gt; com toda sua tradição na modalidade e &lt;code class=&quot;highlighter-rouge&quot;&gt;Sorocaba&lt;/code&gt;, do craque Falcão, apesar de pouco tempo de história, já acostumada a conquistar títulos expressivos como foi o caso do mundial intercontinental de clubes disputado este ano. Apesar da larga vitória do Sorocaba no primeiro jogo, a equipe do &lt;code class=&quot;highlighter-rouge&quot;&gt;Jaraguá&lt;/code&gt; não teve nenhuma derrota jogando diante da sua torcida. Por este motivo, leva também uma ligeira vantagem sobre o adversário e apresenta 60% de chances de avançar na competição.&lt;/p&gt;
+
+&lt;p&gt;Vale a pena curtir essas partidas, que prometem ser eletrizantes e trazer muitas emoções até o último minuto. Será que os cálculos e as estatísticas se confirmarão? Ou será que teremos surpresas nas quartas? Agora é acompanhar e torcer muito!!! ;-)&lt;/p&gt;
+
+&lt;p&gt;Equipes com melhores chances de avançarem para as quartas de finais da LNF 2016:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Marechal Rondon&lt;/li&gt;
+  &lt;li&gt;Carlos Barbosa&lt;/li&gt;
+  &lt;li&gt;Corinthians&lt;/li&gt;
+  &lt;li&gt;Orlandia&lt;/li&gt;
+  &lt;li&gt;Joinville&lt;/li&gt;
+  &lt;li&gt;Atlantico Erechim&lt;/li&gt;
+  &lt;li&gt;Assoeva&lt;/li&gt;
+  &lt;li&gt;Jaragua do Sul&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Resultados dos jogos de Ida&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Guarapuava  1 x 2  Marechal Rondon
+Umuarama    0 x 5  Corinthians
+Floripa     2 x 4  Carlos Barbosa
+Sorocaba    4 x 0  Jaraguá do Sul
+Marreco     5 x 2  Atlântico de Erechim
+Minas       2 x 0  Orlândia
+São José    3 x 3  Joinville
+Concórdia   1 x 1  Assoeva
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Acompanhe o &lt;a href=&quot;http://futstat.com.br/futsalmania&quot; target=&quot;_blank&quot;&gt;Futsal Mania&lt;/a&gt; e fique por dentro das análises e disputas entre as equipes!&lt;/p&gt;
+
+&lt;p&gt;;-)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ranking Nacional de Futsal da Liga atualizado</title>
+   <link href="/futsalmaniablog/blog/2016/05/18/ranking-nacional-atualizado.html"/>
+   <updated>2016-05-18T00:00:00-03:00</updated>
+   <id>/futsalmaniablog/blog/2016/05/18/ranking-nacional-atualizado</id>
+   <content type="html">&lt;p&gt;Esta semana as equipes da Liga concluíram a 5a. rodada da competição. E esta rodada tem um aspecto em especial aqui no Futsal Mania! A partir de agora os resultados de cada partida passam a ser consideradas na atualização do &lt;code class=&quot;highlighter-rouge&quot;&gt;score&lt;/code&gt; de performance das equipes, e consequente atualização da sua colocação no &lt;code class=&quot;highlighter-rouge&quot;&gt;Ranking Nacional&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vale lembrar que o &lt;code class=&quot;highlighter-rouge&quot;&gt;Ranking Nacional&lt;/code&gt; tem por objetivo traduzir as equipes com melhor performance de futsal na atualidade!&lt;/p&gt;
+
+&lt;p&gt;Equipes como a de &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Sorocaba&lt;/code&gt;, por exemplo, cujas campanhas na LNF 2016 estão bem abaixo do “rendimento esperado”, dado seu potencial e história nas Ligas anteriores, passam a ter menores pontuações de performance. E portanto, começam a ter sua colocação ameaçada pelos adversários.&lt;/p&gt;
+
+&lt;p&gt;Veja o colocação atual das equipes neste momento:&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/futsalmaniablog/posts-img/2016-05-18-table1.png&quot; width=&quot;400&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Observe que a diferença de performances entre o &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt; e o &lt;code class=&quot;highlighter-rouge&quot;&gt;Corinthians&lt;/code&gt; que antes era de &lt;strong&gt;252 pontos&lt;/strong&gt; agora passa a ser de &lt;strong&gt;156 pontos&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Já a equipe de &lt;code class=&quot;highlighter-rouge&quot;&gt;Sorocaba&lt;/code&gt; caiu duas posições no &lt;code class=&quot;highlighter-rouge&quot;&gt;Ranking Nacional&lt;/code&gt;, e as equipes de &lt;code class=&quot;highlighter-rouge&quot;&gt;Joinville&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Jaraguá do Sul&lt;/code&gt;, ambas fazendo boas campanhas de início na LNF 2016 não perderam tempo e avançam uma posição rumo ao topo.&lt;/p&gt;
+
+&lt;p&gt;Vale a pena ficar atento à disputa pela 2a. posição no &lt;code class=&quot;highlighter-rouge&quot;&gt;Ranking Nacional&lt;/code&gt; entre &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Corinthians&lt;/code&gt;, e também pela 3a. posição entre as equipes de &lt;code class=&quot;highlighter-rouge&quot;&gt;Joinville&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Jaraguá do Sul&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Sorocaba&lt;/code&gt;!&lt;/p&gt;
+
+&lt;p&gt;As próximas rodadas da LNF promete muita emoção! Acompanhe o &lt;a href=&quot;http://ablazko.github.io/futsalmania&quot; target=&quot;_blank&quot;&gt;Futsal Mania&lt;/a&gt; e fique por dentro desta disputa!&lt;/p&gt;
+
+&lt;p&gt;Vamo que vamo! ;-)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>E se a LNF fosse por pontos corridos?</title>
+   <link href="/futsalmaniablog/blog/2016/05/12/se-fosse-por-pontos-corridos.html"/>
+   <updated>2016-05-12T00:00:00-03:00</updated>
+   <id>/futsalmaniablog/blog/2016/05/12/se-fosse-por-pontos-corridos</id>
+   <content type="html">&lt;p&gt;Uma das coisas que sempre me chamou a atenção na Liga Nacional de Futsal foi a alta competitividade entre as equipes. E em diversas ocasiões (Ligas) sempre acontece de uma equipe fantástica ficar pelo caminho. Sim, claro. Numa competição só pode haver um único campeão. Mas as vezes a desclassificação precoce de uma equipe excelente acaba deixando uma sensação de “injustiça”. A história das Ligas nos mostra que ‘equipes excelentes’ não faltam nessas competições.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A história dos esportes (e os números!) nos diz também que para vencer uma partida você as vezes só precisa de “sorte”. Mas para vencer uma competição somente “sorte” não basta. Você precisa de “sorte” + competência!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vejamos, para começar, como foram as campanhas das 06 equipes campeãs das Ligas de 2010 a 2015.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/futsalmaniablog/posts-img/2016-05-12-plot1.png&quot; width=&quot;800&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Cada ponto no gráfico indica uma partida, e na sequência em que ocorreram dentro do campeonato. Algumas Ligas apresentam menos jogos devido a quantidade de equipes participantes na ocasião.&lt;/p&gt;
+
+&lt;p&gt;Veja, por exemplo, as incríveis campanhas do &lt;code class=&quot;highlighter-rouge&quot;&gt;Santos (2011)&lt;/code&gt; e do &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa (2015)&lt;/code&gt; quando &lt;strong&gt;atingiram quase 75% de vitórias na competição!&lt;/strong&gt; Isso é realmente uma marca fantástica, não acha!?&lt;/p&gt;
+
+&lt;p&gt;Já a equipe de &lt;code class=&quot;highlighter-rouge&quot;&gt;Sorocaba (2014)&lt;/code&gt; conquistou seu título com uma &lt;strong&gt;campanha de 53% de vitórias&lt;/strong&gt; e &lt;strong&gt;33% de empates.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Se reorganizarmos estes dados, descartando a história partida a partida e mantendo apenas as estatísticas finais nas competições podemos fazer uma comparação mais simplificada entre as equipes. Observe o gráfico abaixo.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/futsalmaniablog/posts-img/2016-05-12-plot2.png&quot; width=&quot;700&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Veja como a equipe de &lt;code class=&quot;highlighter-rouge&quot;&gt;Sorocaba (2014)&lt;/code&gt; se destaca das demais pela quantidade de empates na competição. Ou a equipe de &lt;code class=&quot;highlighter-rouge&quot;&gt;Orlândia (2013)&lt;/code&gt; pela quantidade de derrotas. E por fim, os apenas 9% de derrotas da equipe do &lt;code class=&quot;highlighter-rouge&quot;&gt;Santos (2011)&lt;/code&gt;! Aquele time do Falcão realmente destruiu seus adversários naquela temporada!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mas-e-se-a-lnf-fosse-por-pontos-corridos&quot;&gt;Mas e se a LNF fosse por pontos corridos?&lt;/h2&gt;
+
+&lt;p&gt;Ótimo, chegamos a uma parte bacana destas análises. E as conclusões que cheguei foram interessantíssimas! :)&lt;/p&gt;
+
+&lt;p&gt;Sem demora, veja a seguir a comparação entre os campeões oficiais da LNF vs os supostos campeões se a competição tivesse sido decidida por pontos corridos.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/futsalmaniablog/posts-img/2016-05-12-table1.png&quot; width=&quot;550&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Antes de prosseguir com os demais resultados vale a pena entender como a pontuação das equipes foi calculada. Como a quantidade de jogos das equipes em cada Liga não são os mesmos (número de participantes distintos), somar o número de vitórias e de empates não seria justo.&lt;/p&gt;
+
+&lt;p&gt;Para resolver isso, cada Liga foi avaliada individualmente, considerando as campanhas de cada equipe por seu percentual de vitórias e empates, e supondo (por simulação) que todas as equipes tiveram a mesma quantidade de partidas jogadas. O número de partidas jogadas em cada Liga usado como referência foi a quantidade de partidas jogadas pela equipe campeã. E os pontos seguiram o padrão normal da competição, sendo 03 pontos por Vitória e 01 ponto por Empate.&lt;/p&gt;
+
+&lt;p&gt;Ao observar os resultados acima, um ponto a ser ressaltado é que a pontuação dos 03 primeiros colocados foram em geral muito próximas uma das outras, com uma diferença de 2 a 3 vitórias. As vezes até menos. Isso sugere que neste modelo de competição a alta competitividade e equilíbrio entre as equipes também estaria presente. Ou seja, teríamos tido (como torcedores!) as mesmas fortes emoções trazidas pela conhecida fase de “mata mata”.&lt;/p&gt;
+
+&lt;p&gt;Observe, no gráfico a seguir, como foram as &lt;strong&gt;campanhas reais&lt;/strong&gt; de cada equipe nas Ligas. São apresentados os resultados apenas dos três primeiros colocados, supondo uma classificação por pontos corridos.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/futsalmaniablog/posts-img/2016-05-12-plot3.png&quot; width=&quot;800&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Neste ponto você já deve ter reparado que &lt;code class=&quot;highlighter-rouge&quot;&gt;Corinthians (2010)&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Joinville (2013)&lt;/code&gt; já teriam alcançado o tão almejado título de campeões da LNF. De fato, e como comprovam os números, eles realmente o mereciam.&lt;/p&gt;
+
+&lt;p&gt;Observe, por exemplo, que dentre as Ligas analisadas a equipe de &lt;code class=&quot;highlighter-rouge&quot;&gt;Joinville (2013)&lt;/code&gt; foi a que apresentou a melhor campanha numa Liga, com &lt;strong&gt;75% de vitórias&lt;/strong&gt; e apenas &lt;strong&gt;7% de derrotas&lt;/strong&gt; superando, mesmo que por pouca distância, as campanhas do &lt;code class=&quot;highlighter-rouge&quot;&gt;Santos (2011)&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa (2011)&lt;/code&gt;. Parabéns ao &lt;strong&gt;Joinville!&lt;/strong&gt; :)&lt;/p&gt;
+
+&lt;p&gt;Em especial, um outro resultado também me chamou a atenção. Se você observar as estatísticas da Liga 2011 irá notar que as equipes de &lt;code class=&quot;highlighter-rouge&quot;&gt;Santos&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt; apresentam exatamente os mesmos resultados. Então o convido a conhecer as suas respectivas campanhas na ocasião. Veja o gráfico a seguir:&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;
+&lt;img src=&quot;/futsalmaniablog/posts-img/2016-05-12-plot4.png&quot; width=&quot;800&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Observe as trajetórias &lt;strong&gt;impressionantes&lt;/strong&gt; destas duas equipes. Apenas 3 derrotas! E uma delas exatamente numa das mais emocionantes finais de campeonato da LNF. Ambas chegaram de maneira inquestionável como as duas melhores equipes naquele ano. Repare, ainda, o interessante “padrão” de resultados de &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt;, como a cada 04 jogos vinha seguido de uma derrota ou empate. De certa forma, até mesmo o &lt;code class=&quot;highlighter-rouge&quot;&gt;Santos&lt;/code&gt; apresentou um comportamento similar.&lt;/p&gt;
+
+&lt;p&gt;Podemos afirmar, a partir destes resultados, que não foi apenas o &lt;code class=&quot;highlighter-rouge&quot;&gt;Santos&lt;/code&gt;, mas também o &lt;code class=&quot;highlighter-rouge&quot;&gt;Carlos Barbosa&lt;/code&gt; que simplesmente &lt;strong&gt;atropelaram&lt;/strong&gt; seus adversários naquela edição!&lt;/p&gt;
+
+&lt;h3 id=&quot;concluses-finais&quot;&gt;Conclusões finais&lt;/h3&gt;
+&lt;p&gt;Ao final desta breve discussão em torno dos números e simulações referentes às Ligas Nacionais de Futsal, sinto reforçada minha opinião de preferência por um modelo de campeonato na LNF por pontos corridos. Mas não somente pontos corridos, e sim um misto com a já tradicional fórmula da competição.&lt;/p&gt;
+
+&lt;p&gt;Na minha opinião, a competição &lt;font color=&quot;#396EC9&quot;&gt;ganharia ainda mais emoção para os torcedores&lt;/font&gt; e &lt;font color=&quot;#396EC9&quot;&gt;justiça para com as melhores equipes&lt;/font&gt; num campeonato de pontos corridos &lt;font color=&quot;#396EC9&quot;&gt;onde as duas equipes melhores colocadas se enfrentassem num *playoff* de 02 partidas, podendo haver um 3o. jogo em caso de empate&lt;/font&gt;, para decidir quem seria o Campeão!&lt;/p&gt;
+
+&lt;p&gt;Quem sabe um dia eu tenha a oportunidade de assistir uma Liga Nacional com estas características… rs Quem sabe.&lt;/p&gt;
+
+&lt;p&gt;A LNF 2016 aposta este ano num modelo diferente dos anos anteriores. Já na próxima fase da competição as equipes se enfrentarão no formato “mata mata”. Emoção à flor da pele! E as equipes já cedo no campeonato terão seus destinos selados ao final de cada partida. Excelentes equipes mais uma vez ficarão pelo caminho. Veremos para que lado a sorte “tenderá”. Veremos quais equipes sabem jogar com “mais frieza”. Espero que avancem aquelas que realmente mereçam…&lt;/p&gt;
+
+&lt;p&gt;Vamo que vamo! ;-)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Análise de frequência dos placares da LNF</title>
+   <link href="/futsalmaniablog/blog/2016/04/28/analise-frequencia-placares-lnf.html"/>
+   <updated>2016-04-28T00:00:00-03:00</updated>
+   <id>/futsalmaniablog/blog/2016/04/28/analise-frequencia-placares-lnf</id>
+   <content type="html">&lt;p&gt;Os jogos de futsal da LNF sempre foram bastante equilibrados entre as equipes. Mesmo os times com menor tradição sempre “bateram de frente” com os times grandes, e dificilmente o time vitorioso de uma partida teve um jogo fácil nesta competição. A vitória é sempre conquistada com muito suor, e muitas delas decidas nos últimos minutos da partida. Até mesmo nos últimos segundos!&lt;/p&gt;
+
+&lt;p&gt;Pensando nisso, decidi vazer uma breve análise dos placares dos jogos da Liga. Saciar um pouco minha curiosidade, e ver que tipo de informação poderia ser obtida deste contexto em particular.&lt;/p&gt;
+
+&lt;p&gt;O gráfico a seguir nos dá uma boa visão de como foi esta história até este momento. Veja como ficou.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/futsalmaniablog/posts-img/2016-04-28-frequencia-placares-lnf-img1.png&quot; width=&quot;600&quot; heigth=&quot;480&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Neste “mapa de calor” as cores frias (&lt;font color=&quot;#A5D8E6&quot;&gt;azul claro&lt;/font&gt;) indicam uma baixa frequência de placar, e as cores mais quentes (&lt;font color=&quot;red&quot;&gt;vermelho escuro&lt;/font&gt;) indicam alta frequência de placar.&lt;/p&gt;
+
+&lt;p&gt;O que de cara chama atenção no gráfico é que os placares de &lt;code class=&quot;highlighter-rouge&quot;&gt;1x1&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;2x2&lt;/code&gt; e &lt;code class=&quot;highlighter-rouge&quot;&gt;3x3&lt;/code&gt; são os com maior frequência nas Ligas, respondendo por 18,8% dos jogos! Se somarmos a isso os demais placares de empates (diagonal do gráfico), chegamos 23,6% dos jogos. Estamos falando de nada mais nada menos de que praticamente &lt;strong&gt;1/4 dos jogos da LNF terminaram empatados&lt;/strong&gt;! E pouquíssimo deles foram empates sem gols. Que bom! :)&lt;/p&gt;
+
+&lt;p&gt;O fato é que isso vai de encontro à minha percepeção de equilíbrio e alta competitividade entre as equipes. No geral são 6 ou 7 equipes com total competência para vencer a competição (vide Ranking Nacional). Certeza de muita emoção para nós, torcedores!&lt;/p&gt;
+
+&lt;p&gt;Outro &lt;em&gt;insight&lt;/em&gt; que a análise deste gráfico sugere é que os &lt;strong&gt;times da casa&lt;/strong&gt; levam uma pequena vantagem sobre os &lt;strong&gt;times visitantes&lt;/strong&gt; em termos de vitórias. Observe, por exemplo, a leve tendência das cores vermelhas para o lado dos times da casa, indicando maior número de gols, e consequentemente, vitórias.&lt;/p&gt;
+
+&lt;p&gt;Se olharmos para a área com maior concentração de placares, faixas de 1 a 4 gols tanto para o time da casa quanto o time visitante, temos impressionantes 61,2% dos jogos da LNF encerrados com estes placares.&lt;/p&gt;
+
+&lt;p&gt;Resumindo…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Os &lt;strong&gt;times da casa levam uma pequena vantagem sobre os times visitantes&lt;/strong&gt; no número de gols e, portanto, de vitórias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Apenas 1,66% dos jogos da LNF terminaram empatado sem gols!&lt;/strong&gt; (&lt;code class=&quot;highlighter-rouge&quot;&gt;0x0&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;Os &lt;strong&gt;jogos&lt;/strong&gt; são, em geral, &lt;strong&gt;bastante equilibrados entre as equipes&lt;/strong&gt;, com placares muito próximos um do outro. E com tanto equilíbrio nos jogos, quem ganha é o torcedor!&lt;/li&gt;
+  &lt;li&gt;Provável que &lt;strong&gt;um dos fatores mais importantes para um time passar para as fases finais da Liga são os resultados postivos obtidos nos jogos fora de casa!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Mas esta última hipótese vou deixar para uma próxima análise… :)&lt;/p&gt;
+
+&lt;p&gt;Então vamo que vamo! ;-)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Bem-vindo ao blog do Futsal Mania!</title>
-   <link href="http://ablazko.github.io/futsalmaniablog/blog/2016/04/27/bem-vindo-ao-blog-do-futsal-mania.html"/>
+   <link href="/futsalmaniablog/blog/2016/04/27/bem-vindo-ao-blog-do-futsal-mania.html"/>
    <updated>2016-04-27T00:00:00-03:00</updated>
-   <id>http://ablazko.github.io/futsalmaniablog/blog/2016/04/27/bem-vindo-ao-blog-do-futsal-mania</id>
+   <id>/futsalmaniablog/blog/2016/04/27/bem-vindo-ao-blog-do-futsal-mania</id>
    <content type="html">&lt;p&gt;Aqui você encontrará discussões, curiosidades e análises sobre o futsal no Brasil, especialmente sobre as partidas da Liga Nacional de Futsal (LNF).&lt;/p&gt;
 
 &lt;p&gt;A intenção é utilizar minha &lt;em&gt;expertise&lt;/em&gt; em estatística para explorar os &lt;strong&gt;números do jogo&lt;/strong&gt;, descobrir coisas novas, conhecer mais sobre as equipes e a própria história da LNF.&lt;/p&gt;

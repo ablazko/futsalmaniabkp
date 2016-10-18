@@ -1,9 +1,15 @@
 
-http://ablazko.github.io/futsalmaniablog/404.html
-http://ablazko.github.io/futsalmaniablog/assets/css/all.css
-http://ablazko.github.io/futsalmaniablog/atom.xml
-http://ablazko.github.io/futsalmaniablog/
-http://ablazko.github.io/futsalmaniablog/site.json
-http://ablazko.github.io/futsalmaniablog/sitemap.txt
+/futsalmaniablog/404.html
+/futsalmaniablog/assets/css/all.css
+/futsalmaniablog/atom.xml
+/futsalmaniablog/index%20copy.html
+/futsalmaniablog/
+/futsalmaniablog/site.json
+/futsalmaniablog/sitemap.txt
 
-http://ablazko.github.io/futsalmaniablog/blog/2016/04/27/bem-vindo-ao-blog-do-futsal-mania.html
+/futsalmaniablog/blog/2016/10/18/test.html
+/futsalmaniablog/blog/2016/10/13/equipes-que-avancam-as-quartas-lnf-2016.html
+/futsalmaniablog/blog/2016/05/18/ranking-nacional-atualizado.html
+/futsalmaniablog/blog/2016/05/12/se-fosse-por-pontos-corridos.html
+/futsalmaniablog/blog/2016/04/28/analise-frequencia-placares-lnf.html
+/futsalmaniablog/blog/2016/04/27/bem-vindo-ao-blog-do-futsal-mania.html
